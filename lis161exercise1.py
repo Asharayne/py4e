@@ -1,5 +1,4 @@
-lis161exercise1
 inp1 = input('Enter hours of work')
 inp2 = input('Enter rate per hour')
-pay = inp1 * inp2
-print(pay)
+Pay = inp1 * inp2
+print('Pay:', Pay)
